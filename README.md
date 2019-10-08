@@ -9,3 +9,4 @@ Git有一个可变的索引称为stage.
 Git tracks changes of files.
 end end end
 Creating a new branch is quick.
+Creating a new branch again.
